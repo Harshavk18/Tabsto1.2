@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "496610715319",
+    "firebase_url": "https://tabsto-f826a.firebaseio.com",
+    "project_id": "tabsto-f826a",
+    "storage_bucket": "tabsto-f826a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496610715319:android:d60ff286efcfa89ce6cf32",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496610715319-l0k028i6alpneifuorn8p9ajd525lbu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2ACvuTLcN_yNwu8WZO3c_KklLYY7DnCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496610715319-l0k028i6alpneifuorn8p9ajd525lbu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496610715319:android:e0ec9129d36d22ffe6cf32",
+        "android_client_info": {
+          "package_name": "com.example.tabsto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496610715319-l8ii11vqb2hha3bd1do1bd9hqm4l4rt4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tabsto",
+            "certificate_hash": "f0c098734e09d407627adf9bcc9e385f0de04faa"
+          }
+        },
+        {
+          "client_id": "496610715319-l0k028i6alpneifuorn8p9ajd525lbu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2ACvuTLcN_yNwu8WZO3c_KklLYY7DnCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496610715319-l0k028i6alpneifuorn8p9ajd525lbu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
